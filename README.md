@@ -6,5 +6,5 @@
   
   Save coockie and last link
   
-  Added ApsFlayer and Signal
+  Added ApsFlayer and OneSignal
   
